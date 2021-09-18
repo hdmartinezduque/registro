@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3300,
+            "driver": "MariaDB",
+            "name": "Registro",
+            "database": "registro_db",
+            "username": "root",
+            "password": ""
+        }
+    ]
+}

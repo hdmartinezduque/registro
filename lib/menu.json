@@ -1,0 +1,18 @@
+[
+    {
+        "modulo": "Usuarios del Sistema",
+        "link" : "usuarios.php"
+    },
+    {
+        "modulo": "Agregar Registro",
+        "link" : "../admin/add_empleado.php"
+    },
+    {
+        "modulo": "Consultas",
+        "link" : "../admin/principal.php"
+    },    
+    {
+        "modulo": "Cerrar",
+        "link" : "../process/logout.php"
+    }          
+]

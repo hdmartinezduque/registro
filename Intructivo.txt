@@ -1,0 +1,6 @@
+Intructivo
+1.Ejecutar archivo data-model.sql en la consola de Mysql
+2.Ejecutar archivo insert.sql en la consola de Mysql
+3.Copiar archivos en el servidor 
+4.Ejecutar el navegador
+5 Crear usuario y conectarse 
